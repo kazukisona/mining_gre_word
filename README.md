@@ -1,1 +1,2 @@
-# mining_gre_word
+# Mining GRE Words
+source: http://www.majortests.com
